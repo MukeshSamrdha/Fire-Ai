@@ -1,0 +1,30 @@
+================================================================================
+STATUTORY INCOME-TAX RULES FOR SALARIED INDIVIDUALS - FY 2025-26 (AY 2026-27)
+Source: Finance Act 2025 proposals & statutory amendments
+================================================================================
+
+1. SECTION 16(ia) - STANDARD DEDUCTION:
+   - Old Tax Regime: ₹50,000
+   - New Tax Regime: ₹75,000
+
+2. SECTION 115BAC - REVISED NEW TAX REGIME SLABS (FY 2025-26):
+   - Income up to ₹4,00,000: Nil
+   - Income from ₹4,00,001 to ₹8,00,000: 5% of amount exceeding ₹4,00,000
+   - Income from ₹8,00,001 to ₹12,00,000: ₹20,000 + 10% of amount exceeding ₹8,00,000
+   - Income from ₹12,00,001 to ₹16,00,000: ₹60,000 + 15% of amount exceeding ₹12,00,000
+   - Income from ₹16,00,001 to ₹20,00,000: ₹1,20,000 + 20% of amount exceeding ₹16,00,000
+   - Income from ₹20,00,001 to ₹24,00,000: ₹2,00,000 + 25% of amount exceeding ₹20,00,000
+   - Income above ₹24,00,000: ₹3,00,000 + 30% of amount exceeding ₹24,00,000
+
+3. SECTION 87A REBATE UNDER NEW REGIME (FY 2025-26):
+   - Resident individuals with total taxable income not exceeding ₹12,00,000 pay zero tax (rebate up to ₹60,000).
+   - Marginal relief applies for incomes slightly exceeding ₹12,00,000.
+
+4. CHAPTER VI-A DEDUCTIONS, HRA, 24(b):
+   - Retained under Old Regime as before (80C: ₹1,50,000, 80CCD(1B): ₹50,000, 80D: ₹25k/₹50k/₹100k, 24(b): ₹2,00,000).
+   - Nil under New Regime.
+
+5. SURCHARGE & CESS:
+   - Surcharge unchanged (capped at 25% under New Regime).
+   - Health and Education Cess: 4%.
+================================================================================

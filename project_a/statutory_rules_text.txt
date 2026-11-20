@@ -1,0 +1,70 @@
+================================================================================
+STATUTORY INCOME-TAX RULES FOR SALARIED INDIVIDUALS - FY 2024-25 (AY 2025-26)
+Source: Income-tax Act, 1961 read with Finance Act 2024 & Finance (No. 2) Act 2024
+================================================================================
+
+1. SECTION 16(ia) - STANDARD DEDUCTION:
+   - For Old Tax Regime: Salaried individuals are entitled to a standard deduction of ₹50,000 or actual gross salary, whichever is lower.
+   - For New Tax Regime (Section 115BAC): Under amendments by Finance (No. 2) Act 2024, the standard deduction is increased to ₹75,000 or actual gross salary, whichever is lower.
+
+2. SECTION 10(13A) READ WITH RULE 2A - HOUSE RENT ALLOWANCE (HRA):
+   (Allowable under Old Tax Regime only; nil under New Tax Regime)
+   The quantum of HRA exempt from income-tax is the least of the following three amounts:
+   (a) Actual amount of HRA received from employer.
+   (b) Rent paid minus 10% of salary (Basic Salary + Dearness Allowance forming part of retirement benefits).
+   (c) 50% of salary if accommodation is situated in Mumbai, Kolkata, Delhi, or Chennai (Metro cities); or 40% of salary for non-metro cities.
+   If rent paid does not exceed 10% of salary, no exemption is available.
+
+3. SECTION 80C - DEDUCTION IN RESPECT OF LIFE INSURANCE, PF, PPF, ETC.:
+   (Allowable under Old Tax Regime only; nil under New Tax Regime)
+   Deduction in respect of contributions to Employee Provident Fund (EPF), Public Provident Fund (PPF), Equity Linked Savings Scheme (ELSS), Life Insurance Premium, repayment of principal on housing loan, tuition fees, etc., capped at a maximum of ₹1,50,000.
+
+4. SECTION 80CCD(1B) - ADDITIONAL CONTRIBUTION TO NPS:
+   (Allowable under Old Tax Regime only; nil under New Tax Regime)
+   An additional deduction up to ₹50,000 is allowed for individual contributions to the National Pension System (NPS), over and above the limit under Section 80C.
+
+5. SECTION 80D - DEDUCTION FOR HEALTH INSURANCE PREMIUMS:
+   (Allowable under Old Tax Regime only; nil under New Tax Regime)
+   - Category A (Self, Spouse, and Dependent Children): Deduction up to ₹25,000. If self or spouse is a senior citizen (aged 60 years or more), deduction limit is ₹50,000.
+   - Category B (Parents): Deduction up to ₹25,000. If parents are senior citizens (aged 60 years or more), deduction limit is ₹50,000.
+   - Overall ceiling under Section 80D across both categories cannot exceed ₹1,00,000.
+
+6. SECTION 24(b) - INTEREST ON HOUSING LOAN (SELF-OCCUPIED PROPERTY):
+   (Allowable under Old Tax Regime only; nil under New Tax Regime)
+   Interest payable on borrowed capital for acquisition or construction of self-occupied residential house property is allowed as a deduction/loss from house property up to a maximum of ₹2,00,000. Under Old Regime, this loss is eligible for set-off against salary income.
+
+7. NET TAXABLE INCOME ROUNDING (SECTION 288A):
+   Total taxable income after all eligible deductions shall be rounded off to the nearest multiple of ten rupees.
+
+8. TAX SLABS UNDER OLD TAX REGIME (INDIVIDUAL AGED LESS THAN 60 YEARS):
+   - Income up to ₹2,50,000: Nil
+   - Income from ₹2,50,001 to ₹5,00,000: 5% of amount exceeding ₹2,50,000
+   - Income from ₹5,00,001 to ₹10,00,000: ₹12,500 + 20% of amount exceeding ₹5,00,000
+   - Income above ₹10,00,000: ₹1,12,500 + 30% of amount exceeding ₹10,00,000
+   (For Senior Citizens 60-79: Basic exemption is ₹3,00,000. For Super Senior Citizens 80+: Basic exemption is ₹5,00,000).
+
+9. TAX SLABS UNDER NEW TAX REGIME (SECTION 115BAC - FY 2024-25):
+   - Income up to ₹3,00,000: Nil
+   - Income from ₹3,00,001 to ₹7,00,000: 5% of amount exceeding ₹3,00,000
+   - Income from ₹7,00,001 to ₹10,00,000: ₹20,000 + 10% of amount exceeding ₹7,00,000
+   - Income from ₹10,00,001 to ₹12,00,000: ₹50,000 + 15% of amount exceeding ₹10,00,000
+   - Income from ₹12,00,001 to ₹15,00,000: ₹80,000 + 20% of amount exceeding ₹12,00,000
+   - Income above ₹15,00,000: ₹1,40,000 + 30% of amount exceeding ₹15,00,000
+
+10. SECTION 87A REBATE:
+    - Old Regime: Resident individuals having total taxable income not exceeding ₹5,00,000 are entitled to a tax rebate of 100% of income tax or ₹12,500, whichever is less.
+    - New Regime: Resident individuals having total taxable income not exceeding ₹7,00,000 are entitled to a tax rebate of 100% of income tax or ₹25,000, whichever is less.
+    - Section 87A Marginal Relief (New Regime): Where total taxable income slightly exceeds ₹7,00,000, the income-tax payable shall not exceed the amount by which the total taxable income exceeds ₹7,00,000. The excess tax is granted as rebate.
+
+11. SURCHARGE AND MARGINAL RELIEF:
+    - Taxable income > ₹50,00,000 up to ₹1,00,00,000: 10% surcharge on income tax.
+    - Taxable income > ₹1,00,00,000 up to ₹2,00,00,000: 15% surcharge on income tax.
+    - Taxable income > ₹2,00,00,000: 25% surcharge on income tax (capped at 25% under New Regime; under Old Regime > ₹5,00,00,000 is 37%).
+    - Marginal Relief on Surcharge: Total payable (tax + surcharge) shall not exceed the tax payable on ₹50,00,000 plus the excess income over ₹50,00,000 (and similarly for subsequent thresholds).
+
+12. HEALTH AND EDUCATION CESS:
+    A cess of 4% is levied on the aggregate of income-tax (after Section 87A rebate) and applicable surcharge.
+
+13. FINAL TAX PAYABLE ROUNDING (SECTION 288B):
+    The final amount of tax payable shall be rounded off to the nearest multiple of ten rupees.
+================================================================================
